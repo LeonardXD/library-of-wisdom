@@ -8,4 +8,3 @@
 
 3. **Git runs on your computer**  
    Git works locally on a user’s own machine, so the internet is not needed to save changes. Users can create commits and branches offline, and the project history stays on the computer. The internet is only needed when sharing code with others.
-   
